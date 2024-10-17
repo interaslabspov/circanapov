@@ -1,0 +1,10 @@
+
+input_directory_blob_prefix: 'scraped-data'
+step_1_process_dir: 'step_1_process_flattened'
+step_2_process_dir: 'step_2_process_merged'
+step_3_process_dir: 'step_3_llm_response'
+bucket_name: 'scraper-ai'
+metadata_blob_name: 'metadata/all_tech_gm_parsed.csv'
+mapping_blob_name: 'metadata/itemid_filename_mapping.csv'
+meta_attribute_value_blob_name: 'metadata/all_product_cat_attribute_value.csv'
+output_directory: 'output'

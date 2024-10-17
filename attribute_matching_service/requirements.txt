@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+google-cloud-storage
+google-cloud-aiplatform
+pyyaml
+rapidfuzz
+fuzzywuzzy

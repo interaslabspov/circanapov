@@ -1,0 +1,11 @@
+inputdata_catagory/
+step_1_process_flattened/
+step_2_process_merged/
+step_3_process_merged/
+test_product/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
